@@ -75,6 +75,14 @@ flowchart TD
 * Simple **Streamlit web interface**
 * Includes sample inputs for testing
 
+### Sample input
+
+![Sample Input](assets/sample_inputs/sample_1.jpg)
+
+### Scanned output
+
+![Sample Output](assets/sample_outputs/sample_1_scanned.png)
+
 ---
 
 ## Repository Structure
